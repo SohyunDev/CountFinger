@@ -1,0 +1,37 @@
+﻿ConnectCam.obj : error LNK2001: "void __cdecl cv::imshow(class cv::String const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBVString@1@AEBV_InputArray@1@@Z) 외부 기호를 확인할 수 없습니다.
+ConnectCam.obj : error LNK2001: "public: virtual bool __cdecl cv::VideoCapture::set(int,double)" (?set@VideoCapture@cv@@UEAA_NHN@Z) 외부 기호를 확인할 수 없습니다.
+ConnectCam.obj : error LNK2001: "public: virtual bool __cdecl cv::VideoCapture::isOpened(void)const " (?isOpened@VideoCapture@cv@@UEBA_NXZ) 외부 기호를 확인할 수 없습니다.
+ConnectCam.obj : error LNK2001: "public: virtual __cdecl cv::VideoCapture::~VideoCapture(void)" (??1VideoCapture@cv@@UEAA@XZ) 외부 기호를 확인할 수 없습니다.
+ConnectCam.obj : error LNK2001: "public: __cdecl cv::VideoCapture::VideoCapture(int)" (??0VideoCapture@cv@@QEAA@H@Z) 외부 기호를 확인할 수 없습니다.
+ConnectCam.obj : error LNK2001: "public: void __cdecl cv::Mat::copySize(class cv::Mat const &)" (?copySize@Mat@cv@@QEAAXAEBV12@@Z) 외부 기호를 확인할 수 없습니다.
+ConnectCam.obj : error LNK2001: "public: void __cdecl cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QEAAXXZ) 외부 기호를 확인할 수 없습니다.
+ConnectCam.obj : error LNK2001: "void __cdecl cv::destroyAllWindows(void)" (?destroyAllWindows@cv@@YAXXZ) 외부 기호를 확인할 수 없습니다.
+ConnectCam.obj : error LNK2001: "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPEAX@Z) 외부 기호를 확인할 수 없습니다.
+ConnectCam.obj : error LNK2001: "private: void __cdecl cv::String::deallocate(void)" (?deallocate@String@cv@@AEAAXXZ) 외부 기호를 확인할 수 없습니다.
+ConnectCam.obj : error LNK2001: "private: char * __cdecl cv::String::allocate(unsigned __int64)" (?allocate@String@cv@@AEAAPEAD_K@Z) 외부 기호를 확인할 수 없습니다.
+ConnectCam.obj : error LNK2001: "int __cdecl cv::waitKey(int)" (?waitKey@cv@@YAHH@Z) 외부 기호를 확인할 수 없습니다.
+Image.obj : error LNK2001: "public: void __cdecl cv::Mat::create(int,int const *,int)" (?create@Mat@cv@@QEAAXHPEBHH@Z) 외부 기호를 확인할 수 없습니다.
+Image.obj : error LNK2001: "public: class cv::Mat & __cdecl cv::Mat::operator=(class cv::Scalar_<double> const &)" (??4Mat@cv@@QEAAAEAV01@AEBV?$Scalar_@N@1@@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "double __cdecl cv::contourArea(class cv::_InputArray const &,bool)" (?contourArea@cv@@YANAEBV_InputArray@1@_N@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::drawContours(class cv::_InputOutputArray const &,class cv::_InputArray const &,int,class cv::Scalar_<double> const &,int,int,class cv::_InputArray const &,int,class cv::Point_<int>)" (?drawContours@cv@@YAXAEBV_InputOutputArray@1@AEBV_InputArray@1@HAEBV?$Scalar_@N@1@HH1HV?$Point_@H@1@@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::minMaxIdx(class cv::_InputArray const &,double *,double *,int *,int *,class cv::_InputArray const &)" (?minMaxIdx@cv@@YAXAEBV_InputArray@1@PEAN1PEAH20@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::dilate(class cv::_InputArray const &,class cv::_OutputArray const &,class cv::_InputArray const &,class cv::Point_<int>,int,int,class cv::Scalar_<double> const &)" (?dilate@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@0V?$Point_@H@1@HHAEBV?$Scalar_@N@1@@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "public: static class cv::MatExpr __cdecl cv::Mat::zeros(class cv::Size_<int>,int)" (?zeros@Mat@cv@@SA?AVMatExpr@2@V?$Size_@H@2@H@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "public: void __cdecl cv::Mat::convertTo(class cv::_OutputArray const &,int,double,double)const " (?convertTo@Mat@cv@@QEBAXAEBV_OutputArray@2@HNN@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "public: void __cdecl cv::Mat::copyTo(class cv::_OutputArray const &)const " (?copyTo@Mat@cv@@QEBAXAEBV_OutputArray@2@@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::cvtColor(class cv::_InputArray const &,class cv::_OutputArray const &,int,int)" (?cvtColor@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@HH@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "class cv::_InputOutputArray const & __cdecl cv::noArray(void)" (?noArray@cv@@YAAEBV_InputOutputArray@1@XZ) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::flip(class cv::_InputArray const &,class cv::_OutputArray const &,int)" (?flip@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@H@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "class cv::Mat __cdecl cv::getStructuringElement(int,class cv::Size_<int>,class cv::Point_<int>)" (?getStructuringElement@cv@@YA?AVMat@1@HV?$Size_@H@1@V?$Point_@H@1@@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::rectangle(class cv::Mat &,class cv::Rect_<int>,class cv::Scalar_<double> const &,int,int,int)" (?rectangle@cv@@YAXAEAVMat@1@V?$Rect_@H@1@AEBV?$Scalar_@N@1@HHH@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::convexityDefects(class cv::_InputArray const &,class cv::_InputArray const &,class cv::_OutputArray const &)" (?convexityDefects@cv@@YAXAEBV_InputArray@1@0AEBV_OutputArray@1@@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::distanceTransform(class cv::_InputArray const &,class cv::_OutputArray const &,int,int,int)" (?distanceTransform@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@HHH@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::convexHull(class cv::_InputArray const &,class cv::_OutputArray const &,bool,bool)" (?convexHull@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@_N2@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "class cv::Rect_<int> __cdecl cv::boundingRect(class cv::_InputArray const &)" (?boundingRect@cv@@YA?AV?$Rect_@H@1@AEBV_InputArray@1@@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::error(int,class cv::String const &,char const *,char const *,int)" (?error@cv@@YAXHAEBVString@1@PEBD1H@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::bitwise_and(class cv::_InputArray const &,class cv::_InputArray const &,class cv::_OutputArray const &,class cv::_InputArray const &)" (?bitwise_and@cv@@YAXAEBV_InputArray@1@0AEBV_OutputArray@1@0@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::inRange(class cv::_InputArray const &,class cv::_InputArray const &,class cv::_InputArray const &,class cv::_OutputArray const &)" (?inRange@cv@@YAXAEBV_InputArray@1@00AEBV_OutputArray@1@@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::circle(class cv::_InputOutputArray const &,class cv::Point_<int>,int,class cv::Scalar_<double> const &,int,int,int)" (?circle@cv@@YAXAEBV_InputOutputArray@1@V?$Point_@H@1@HAEBV?$Scalar_@N@1@HHH@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::findContours(class cv::_InputOutputArray const &,class cv::_OutputArray const &,class cv::_OutputArray const &,int,int,class cv::Point_<int>)" (?findContours@cv@@YAXAEBV_InputOutputArray@1@AEBV_OutputArray@1@1HHV?$Point_@H@1@@Z) 외부 기호를 확인할 수 없습니다.
+TransImage.obj : error LNK2001: "void __cdecl cv::medianBlur(class cv::_InputArray const &,class cv::_OutputArray const &,int)" (?medianBlur@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@H@Z) 외부 기호를 확인할 수 없습니다.
+D:\연구실\FingerDetection\x64\Release\FingerDetection.exe : fatal error LNK1120: 36개의 확인할 수 없는 외부 참조입니다.

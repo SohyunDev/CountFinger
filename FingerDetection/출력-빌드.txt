@@ -1,0 +1,29 @@
+﻿1>------ 모두 다시 빌드 시작: 프로젝트: FingerDetection, 구성: Release x64 ------
+1>  Color.cpp
+1>C:\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>C:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>  ConnectCam.cpp
+1>C:\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>C:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>ConnectCam.cpp(66): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+1>  Image.cpp
+1>C:\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>C:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>  TransImage.cpp
+1>C:\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>C:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>TransImage.cpp(117): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+1>  코드를 생성하고 있습니다.
+1>  All 106 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+1>  코드를 생성했습니다.
+1>  FingerDetection.vcxproj -> C:\Users\sohyun\Desktop\연구실\FingerDetection\x64\Release\FingerDetection.exe
+1>  FingerDetection.vcxproj -> C:\Users\sohyun\Desktop\연구실\FingerDetection\x64\Release\FingerDetection.pdb (Full PDB)
+========== 모두 다시 빌드: 성공 1, 실패 0, 생략 0 ==========

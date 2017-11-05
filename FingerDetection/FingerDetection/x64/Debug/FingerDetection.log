@@ -1,0 +1,8 @@
+﻿  TransImage.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\sohyun\desktop\연구실\fingerdetection\fingerdetection\transimage.cpp(102): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FingerDetection.vcxproj -> C:\Users\sohyun\Desktop\연구실\FingerDetection\x64\Debug\FingerDetection.exe
+  FingerDetection.vcxproj -> C:\Users\sohyun\Desktop\연구실\FingerDetection\x64\Debug\FingerDetection.pdb (Full PDB)
